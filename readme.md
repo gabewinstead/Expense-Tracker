@@ -9,3 +9,4 @@ A CLI expense tracker in Python. Data persists in a JSON file.
 - Data saved to expenses.json
 
 ## Run   
+python main.py
